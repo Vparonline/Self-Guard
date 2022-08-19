@@ -3,7 +3,6 @@
 Farkı Nedir?
 
 1-) Normal Guarddan Daha Hızlı Karşılık Verir (Rol Karıştırılsa Dahi).
-2-) Daha Çok Rol Silinmesine Engel Olmuş Olur Yani.
 
 Kötü Yanı Nedir?
 
