@@ -24,6 +24,6 @@ function anasınısik(user, tur) {
 };
 
 client.
-login(process.env.token)
+login(set.Token)
 .then(() => console.log("[User Token] User Token connected!"))
 .catch(() => console.log("[User Token] User Token can't connected!"));
